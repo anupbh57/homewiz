@@ -8,7 +8,6 @@ function CenterRight() {
     <div className='centerRight w-2/5 pr-4 py-4'>
       <div className='centerRight-wrapper w-full h-full'>
         <Weather/>
-        <MusicPlayer />
       </div>
     </div>
   )
